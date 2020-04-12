@@ -8,7 +8,7 @@ The first step in this process is to undistort the camera.
 #### Distorted Chess Board Images
     
 
-![png](writeUp/output_3_1.png)
+![png](writeup_img/distortedimagesample.png)
 
 
 #### Camera Calibration
