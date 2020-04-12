@@ -36,7 +36,7 @@ I kept finding corners and appended them to an array imgpoints and obj point to 
 In cell 6 I used the same matrix to undistort some test Images too
 These are some Images after Distortion Correction.
 
-![png](writeUp/output_8_1.png)
+![png](writeup_img/undistortedRoadtests.png)
 
 
 #### Experimenting on various color spaces
