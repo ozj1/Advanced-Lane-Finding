@@ -127,7 +127,7 @@ For warping the Image I created a function called warp_image() in the cell 7 of 
     These are some examples of the perspective transformed Images
     
 
-![png](writeUp/warp.png)
+![png](writeup_img/RoadPerspective.png)
 
 | Source        | Destination   | 
 |:-------------:|:-------------:| 
@@ -146,6 +146,11 @@ I took 200 as the offset value to zoom in or zoom out the image on the x axis.
         return warped,inv
 
 I verified that my perspective transform was working as expected by drawing the `src` and `dst` points onto a test image and its warped counterpart to verify that the lines appear parallel in the warped image.
+
+#### Histogram
+
+![png](writeup_img/HistogramSample.png)
+
 
 ![png](writeUp/output_10_0.png)
 
