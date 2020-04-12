@@ -25,7 +25,7 @@ So after loading the images we calibrate the camera with them. Open CV provides 
 
     Original and calibrated images
 
-![png](writeUp/output_6_1.png)
+![png](writeup_img/undistortedimage.png)
 
 #### 1. Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.
 To calibrate the camera, First of all I imported the chessboard Images, and found their corners using the findChessboardCorners method. I also initialized the obj point as objp[:,:2]= np.mgrid[0:nx,0:ny].T.reshape(-1,2)
