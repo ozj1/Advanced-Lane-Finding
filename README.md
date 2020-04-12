@@ -20,7 +20,7 @@ So after loading the images we calibrate the camera with them. Open CV provides 
 
     Images after plotting chessboard corners
     
-![png](writeUp/output_5_1.png)
+![png](writeup_img/cornersimagesample.png)
 
 
     Original and calibrated images
