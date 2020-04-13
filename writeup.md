@@ -91,7 +91,7 @@ These are some images of experimentation using sobel gradient. I tried to filter
 
 I tried combining sobel techniques and channel thresholds to get the binary image of detected lanes but finally deduced that lanes get detected best using the color channels and hence went with channel thresholding for lane detection.
 
-
+![png](writeup_img/difThreshholdImages0.png)
 ![png](writeup_img/difThreshholdImages.png)
 
 
