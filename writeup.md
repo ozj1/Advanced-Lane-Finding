@@ -95,6 +95,8 @@ I tried combining sobel techniques and channel thresholds to get the binary imag
 ![png](writeup_img/difThreshholdImages.png)
 
 
+
+
 #### Pipeline
 Pipeline is necessary to join all the code segments to take in an image and give a final output image which has the lane plotted on it.
 
@@ -199,7 +201,8 @@ I created a **plot_line()** function in the code to find the lane pixels using t
     9. The last step is to plot these lines using any suitable python libraries.
     10. We can also plot the windows using the cv2.rectangle() method.
     
-![png](writeUp/slidingwindow.png)
+
+![png](writeup_img/lanedetection.png)
 
 #### 5. Describe how (and identify where in your code) you calculated the radius of curvature of the lane and the position of the vehicle with respect to center.
 
@@ -237,8 +240,8 @@ Direction of steer:
 
 #### 6. Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
 
+![png](writeup_img/FinalResult.png)
 
-![png](writeUp/lane.png)
 Below are few examples of the test images processed by the pipeline.
 ![png](writeUp/output_49_0.png)
 
