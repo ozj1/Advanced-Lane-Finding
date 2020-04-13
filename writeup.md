@@ -91,8 +91,8 @@ These are some images of experimentation using sobel gradient. I tried to filter
 
 I tried combining sobel techniques and channel thresholds to get the binary image of detected lanes but finally deduced that lanes get detected best using the color channels and hence went with channel thresholding for lane detection.
 
-![png](writeUp/output_31_0.png)
 
+![png](writeup_img/difThreshholdImages.png)
 
 
 #### Pipeline
@@ -128,6 +128,9 @@ For warping the Image I created a function called warp_image() in the cell 7 of 
     
 
 ![png](writeup_img/RoadPerspective.png)
+![png](writeup_img/RoadPerspective2.png)
+
+
 
 | Source        | Destination   | 
 |:-------------:|:-------------:| 
