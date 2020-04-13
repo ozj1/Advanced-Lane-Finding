@@ -264,4 +264,4 @@ There were a lot of challenges in the project. I have enlisted some of them with
 
 Please find the link to the output video:
 
-https://github.com/UjjwalSaxena/CarND-Advanced-Lane-Lines-master/blob/master/project_video_output.mp4
+https://github.com/ozj1/Advanced-Lane-Finding/blob/master/AdvLane_output_video.mp4
